@@ -1,0 +1,41 @@
+# Data
+train.csv
+*.csv
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model outputs
+*.h5
+*.keras
+saved_models/
+
+# Generated figures (can be regenerated)
+figures/*.png
+figures/*.jpg
+!figures/.gitkeep
