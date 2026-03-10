@@ -3,12 +3,10 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![IEEE Access](https://img.shields.io/badge/IEEE-Access-blue.svg)](https://ieeeaccess.ieee.org/)
 
 > **Paper:** *An Integrated Deep Learning and Multi-Objective Pareto Optimization Framework for Retail Supply Chains*  
 > **Authors:** Mohammed Zizi, Anas Chafi, Mohammed El Hammoumi  
 > **Affiliation:** Laboratory of Industrial Techniques, Faculty of Sciences and Techniques, Sidi Mohamed Ben Abdellah University, Fez, Morocco  
-> **Journal:** IEEE Access (2026)
 
 ---
 
@@ -205,9 +203,6 @@ If you use this code in your research, please cite:
   title={An Integrated Deep Learning and Multi-Objective Pareto Optimization 
          Framework for Retail Supply Chains},
   author={Zizi, Mohammed and Chafi, Anas and El Hammoumi, Mohammed},
-  journal={IEEE Access},
-  year={2026},
-  doi={forthcoming}
 }
 ```
 
